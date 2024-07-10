@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "xyO6rz882GneMdm9qXa3gt2DGvwk0fe4Z818jT0GX1k=",
+  "Source": "MongoCrud.API",
+  "BasePath": "_content/MongoCrud.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
